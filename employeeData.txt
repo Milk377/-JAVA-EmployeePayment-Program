@@ -1,0 +1,1 @@
+_SalariedEmployee,KimSalaried,Taehoon,910122,1,22,1991,10,6000.0_HourlyEmployee,ParkHour,jihun,950122,1,22,1995,1,20.0,100.0_SalariedEmployee,Kim,Jihuun,910121,1,21,1999,30,9000.0_SalariedEmployee,Kim,TaeHoon,910122,1,22,1991,10,6000.0
