@@ -69,12 +69,21 @@ public class BasePlusCommissionEmployee extends CommissionEmployee  {
 
         }
 
-
-
-
-
-
     } // end method earnings
+/*
+
+    @Override
+    public double earningsInOneShot(Boolean birthBonus,Boolean longWorkBonus)
+    {
+        double earnings = 0;
+
+
+
+        return earnings;
+    }
+
+*/
+
 
     // return String representation of BasePlusCommissionEmployee object
     @Override

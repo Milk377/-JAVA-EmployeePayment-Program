@@ -81,6 +81,10 @@ public abstract class Employee {
     // abstract method overridden by subclasses
     public abstract double earnings(int _month);
 
+    public abstract double earningsInOneShot(Boolean birthBonus,Boolean longWorkBonus);
+
+
+
     public Boolean checkBirthBonus(int _month)
     {
         if(birthDate.getMonth() == _month)
